@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Onlinesurvey/static/css/main.b344d86d.css",
+    "main.js": "/Onlinesurvey/static/js/main.4fb5683f.js",
+    "index.html": "/Onlinesurvey/index.html",
+    "main.b344d86d.css.map": "/Onlinesurvey/static/css/main.b344d86d.css.map",
+    "main.4fb5683f.js.map": "/Onlinesurvey/static/js/main.4fb5683f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b344d86d.css",
+    "static/js/main.4fb5683f.js"
+  ]
+}
